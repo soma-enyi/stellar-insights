@@ -1,6 +1,6 @@
 pub mod account_merges;
 pub mod achievements;
-pub mod alerts;
+// pub mod alerts;  // TODO: Fix Handler trait issues
 pub mod anchors;
 pub mod anchors_cached;
 pub mod api_keys;
